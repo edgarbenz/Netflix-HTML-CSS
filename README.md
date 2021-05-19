@@ -1,4 +1,5 @@
-# HTMLCSS
+# HTML 
+# CSS
 
 Ing. Tony: me excedi con las fotos de las películas , repeti mucho código para pintarlas pero fue por diversión perdóneme
 
